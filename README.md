@@ -1,6 +1,6 @@
 # Frontend Mentor - NFT preview card component solution
 
-This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -9,8 +9,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
+- [Continued development](#continued-development)
 - [Author](#author)
 
 ## Overview
@@ -33,22 +32,8 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 
-### What I learned
-
-How to display an image over another one when hover over it.
-
-```html
-
-```
-```css
-
-```
-
-### Continued development
-
-
 ## Author
 
-- Website - [Raymond Munonye](https://nftcardpreviewfec.netlify.app)
+- Website - [Raymond Munonye]()
 - Frontend Mentor - [@Raymond023](https://www.frontendmentor.io/profile/Raymond023)
 - Twitter - [@thegraykid](https://www.twitter.com/thegraykid)
